@@ -1,3 +1,6 @@
 [submodule "cats_app"]
 	path = cats_app
 	url = git@github.com:JesusRivera98/cat_app.git
+[submodule "messages_app"]
+	path = messages_app
+	url = https://github.com/JesusRivera98/messages_app.git

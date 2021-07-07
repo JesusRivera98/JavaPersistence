@@ -1,5 +1,5 @@
 *.pdf
 cats_app/.git
-messagesapp/.git
-messages_app/.git/*
-messages_app/.git/
+/messages_app/.git
+/messages_app/.git/*
+/messages_app/.git/
