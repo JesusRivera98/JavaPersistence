@@ -1,0 +1,3 @@
+[submodule "cats_app"]
+	path = cats_app
+	url = git@github.com:JesusRivera98/cat_app.git
